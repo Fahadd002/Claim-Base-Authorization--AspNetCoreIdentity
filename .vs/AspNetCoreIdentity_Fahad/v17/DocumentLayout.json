@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Final_Project\\AspNetCoreIdentity_Fahad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA202492-5934-4860-8050-44C209CE67AA}|AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad.csproj|d:\\final_project\\aspnetcoreidentity_fahad\\aspnetcoreidentity_fahad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA202492-5934-4860-8050-44C209CE67AA}|AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad.csproj|solutionrelative:aspnetcoreidentity_fahad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA202492-5934-4860-8050-44C209CE67AA}|AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad.csproj|d:\\final_project\\aspnetcoreidentity_fahad\\aspnetcoreidentity_fahad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA202492-5934-4860-8050-44C209CE67AA}|AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad.csproj|solutionrelative:aspnetcoreidentity_fahad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA202492-5934-4860-8050-44C209CE67AA}|AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad.csproj|d:\\final_project\\aspnetcoreidentity_fahad\\aspnetcoreidentity_fahad\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA202492-5934-4860-8050-44C209CE67AA}|AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad.csproj|solutionrelative:aspnetcoreidentity_fahad\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA202492-5934-4860-8050-44C209CE67AA}|AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad.csproj|d:\\final_project\\aspnetcoreidentity_fahad\\aspnetcoreidentity_fahad\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA202492-5934-4860-8050-44C209CE67AA}|AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad.csproj|solutionrelative:aspnetcoreidentity_fahad\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA202492-5934-4860-8050-44C209CE67AA}|AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad.csproj|d:\\final_project\\aspnetcoreidentity_fahad\\aspnetcoreidentity_fahad\\data\\migrations\\20240727180906_newcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA202492-5934-4860-8050-44C209CE67AA}|AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad.csproj|solutionrelative:aspnetcoreidentity_fahad\\data\\migrations\\20240727180906_newcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Final_Project\\AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentity_Fahad\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Final_Project\\AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "AspNetCoreIdentity_Fahad\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAIAAADoMTMzMzMrwBEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:25:45.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Final_Project\\AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentity_Fahad\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Final_Project\\AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "AspNetCoreIdentity_Fahad\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:23:59.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240727180906_NewCreate.cs",
+              "DocumentMoniker": "D:\\Final_Project\\AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad\\Data\\Migrations\\20240727180906_NewCreate.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentity_Fahad\\Data\\Migrations\\20240727180906_NewCreate.cs",
+              "ToolTip": "D:\\Final_Project\\AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad\\Data\\Migrations\\20240727180906_NewCreate.cs",
+              "RelativeToolTip": "AspNetCoreIdentity_Fahad\\Data\\Migrations\\20240727180906_NewCreate.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:09:06.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Final_Project\\AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreIdentity_Fahad\\appsettings.json",
+              "ToolTip": "D:\\Final_Project\\AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreIdentity_Fahad\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T18:04:29.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Final_Project\\AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentity_Fahad\\Program.cs",
+              "ToolTip": "D:\\Final_Project\\AspNetCoreIdentity_Fahad\\AspNetCoreIdentity_Fahad\\Program.cs",
+              "RelativeToolTip": "AspNetCoreIdentity_Fahad\\Program.cs",
+              "ViewState": "AQIAAAYAAADQMjMzM5MwwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T17:57:46.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
